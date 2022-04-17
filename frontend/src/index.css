@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+div.question-container {
+  width: 100%;
+  margin: auto;
+  /* border: 1px solid blue; */
+}
+
+.container {
+  margin-top: 30px;
+  justify-content: space-between;
+  /* border: 1px solid red; */
+}
+
+.qt {
+  font-weight: 700;
+}
+
