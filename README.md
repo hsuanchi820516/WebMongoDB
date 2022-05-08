@@ -1,4 +1,2 @@
 # WebMongoDB
 
-
-Sample Link Video: 
